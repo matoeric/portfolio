@@ -17,3 +17,12 @@
 - Migrated existing website from HTML/CSS to WordPress,
 - Worked with end users to determine their information needs,
 - Collected information on reported software problems and provided recommendations to prevent recurring issues using written reports and oral presentations.
+
+## Projects
+-BrightMind Behavioral Health (https://bmbehavioral.health/)
+
+Developed a website for a facility that provide expert psychiatric care and medication-assisted treatment.
+
+-Freedom Finance Advisors (https://freedomfinanceadvisors.com/)
+
+Developed a website for a company that dedicated is to helping families and individuals across the United States achieve lasting financial confidence through education, guidance, and personalized support.
