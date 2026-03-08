@@ -23,6 +23,10 @@
 
 Developed a website for a facility that provide expert psychiatric care and medication-assisted treatment.
 
--Freedom Finance Advisors (https://freedomfinanceadvisors.com/)
+-Freedom Finance Advisors, LLC (https://freedomfinanceadvisors.com/)
 
 Developed a website for a company that dedicated is to helping families and individuals across the United States achieve lasting financial confidence through education, guidance, and personalized support.
+
+## Cheat Sheet
+
+![Computer Components](/assets/img/eeg_band_discovery.jpeg)
