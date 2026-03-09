@@ -29,4 +29,4 @@ Developed a website for a company that dedicated is to helping families and indi
 
 ## Cheat Sheet
 
-![Computer Components](/assets/img/eeg_band_discovery.jpeg)
+![Computer Components](/assets/img/computer_components.jpeg)
