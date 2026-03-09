@@ -29,4 +29,6 @@ Developed a website for a company that dedicated is to helping families and indi
 
 ## Cheat Sheet
 
+Computer components
+
 ![Computer Components](/assets/img/computer_components.jpeg)
